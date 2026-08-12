@@ -5,9 +5,9 @@
 # Weekly Status - Week 01
 
 <!-- CONFIG-START - must match your profile repo (username/username) CONFIG -->
-- FULL_NAME:
-- GITHUB_USER:
-- TEAM:
+- FULL_NAME: Luis Fernando Claros Ramos
+- GITHUB_USER: luisfclaros
+- TEAM: RedFish
 - SPRINT_GOAL:
 <!-- CONFIG-END -->
 
